@@ -1,0 +1,20 @@
+case_id,activity,timestamp
+1,Check stock availability,2024-01-01 00:00:00
+1,Stock available?,2024-01-01 01:00:00
+1,Retrieve product from warehouse,2024-01-01 02:00:00
+1,Confirm order,2024-01-01 03:00:00
+1,Get shipping address,2024-01-01 04:00:00
+1,Ship product,2024-01-01 05:00:00
+1,Receive payment,2024-01-01 06:00:00
+1,Archive order,2024-01-01 07:00:00
+2,Check stock availability,2024-01-02 00:00:00
+2,Stock available?,2024-01-02 01:00:00
+2,Check raw materials availability,2024-01-02 02:00:00
+2,Request raw materials,2024-01-02 03:00:00
+2,Obtain raw materials,2024-01-02 04:00:00
+2,Manufacture product,2024-01-02 05:00:00
+2,Confirm order,2024-01-02 06:00:00
+2,Get shipping address,2024-01-02 07:00:00
+2,Ship product,2024-01-02 08:00:00
+2,Receive payment,2024-01-02 09:00:00
+2,Archive order,2024-01-02 10:00:00
